@@ -64,7 +64,7 @@
     <Compile Include="Utils\Tunnel.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\csutils\TbxUtils\TbxUtils.csproj">
+    <ProjectReference Include="..\TbxUtils\TbxUtils.csproj">
       <Project>{0D3CAB77-329F-483B-883A-C8B2E7D9CC3E}</Project>
       <Name>TbxUtils</Name>
     </ProjectReference>
